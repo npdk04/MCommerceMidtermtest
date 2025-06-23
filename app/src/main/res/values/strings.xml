@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MidTermtest</string>
+    <string name="title_login_username">User name:</string>
+    <string name="title_login_username_hint">Enter your username</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_save_infor">Save login infor</string>
+    <string name="title_login_button_login">Login</string>
+    <string name="title_confirm_exit_title">Confirm Exit</string>
+    <string name="title_confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="title_confirm_exit_ok">OK</string>
+    <string name="title_confirm_exit_cancel">CANCEL</string>
+    <string name="title_login_button_exit">Exit</string>
+    <string name="title_category">Category</string>
+    <string name="title_all_product">All Product</string>
+    <string name="title_mobile_phone">Mobile phone and Tablet</string>
+    <string name="title_laptop">Laptop and sounds</string>
+    <string name="title_entertainment">Entertainment</string>
+    <string name="title_lot">LIST OF TASK</string>
+    <string name="title_create">Create</string>
+    
+    <string name="title_product_name">Product Name</string>
+    <string name="title_product_id">ProductID</string>
+    <string name="title_unitprice">Price</string>
+    <string name="title_category_id">Category ID</string>
+    <string name="title_quantity">Quantity</string>
+    <string name="title_admin">Admin</string>
+    <string name="title_employee">Employee</string>
+    <string name="title_student_info_record">Student Info Record</string>
+    <string name="title_ten_nhiem_vu">"Nhiệm vụ: "</string>
+    <string name="title_ngay_nv">"Ngày: "</string>
+    <string name="title_status">"Trạng Thái: "</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FCECDD"
+    tools:context=".LOTActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_lot"
+        android:textAlignment="center"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#00809D"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btn_create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="@string/title_create"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#00809D"
+        />
+
+    <ListView
+        android:id="@+id/list_view_tasks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="0.5dp"
+        android:background="#FFFFFF" />
+</LinearLayout>
